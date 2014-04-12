@@ -8,11 +8,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Follow The Drifter
+title : Mulldrifting
 tagline: 
-author :
+author : Lauren Lee
   name : Lauren Lee
-  email : mulldrifting@email.test
+  email : mulldrifting@gmail.com
   github : neruka
   twitter : mulldrifting
   feedburner : 
@@ -70,7 +70,7 @@ JB :
   # Some JB helpers refer to these paths; change them here if needed.
   #
   archive_path: /archive.html
-  categories_path : /categories.html
+  categories_path : 
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
